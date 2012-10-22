@@ -7,7 +7,7 @@ Stitchies for Processing
 ### What is this?
 This processing sketch is an interactive impelementation of **Stitchy Identicons** a.k.a [**Stitchies**](http://www.k2g2.org/blog:bit.craft:stitchy_identicons).
 
-See [The sketch in action](www.openprocessing.org/sketch/71789) on OpenProcessing.
+See [The sketch in action](http://www.openprocessing.org/sketch/71789) on OpenProcessing.
 
 ### Programmers Notes
 - The sketch runs both in Java and Javascript mode.

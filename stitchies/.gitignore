@@ -1,3 +1,5 @@
 /web-export
 /applet
 .DS_Store
+sketch.properties
+application.*
